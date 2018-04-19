@@ -19,7 +19,7 @@ public class Constants {
     public static final String INVITE_MARKDOWN = "[Support Server](" + INVITE_URL + ")";
 
     public static final long DEVELOPER_ID = 226788297156853771L;
-    public static final long ADMINS_ID = 184373823699681281;
+    public static final long ADMINS_ID = 184373823699681281L;
     public static final long CONTRIBUTOR_ID = 272324832279003136L;
 
     private static final String FLARE_TEST_BOT_CHANNEL = "242297848123621376";
