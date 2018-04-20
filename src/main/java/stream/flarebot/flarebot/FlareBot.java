@@ -573,7 +573,7 @@ public class FlareBot {
                 if (!(git.exists() && git.isDirectory())) {
                     LOGGER.info("Cloning git!");
                     ProcessBuilder clone =
-                            new ProcessBuilder("git", "clone", "https://github.com/FlareBot/FlareBot.git", git
+                            new ProcessBuilder("git", "clone", "https://github.com/Dabblecraft2DevTeam/FlareBot.git", git
                                     .getAbsolutePath());
                     clone.redirectErrorStream(true);
                     Process p = clone.start();
