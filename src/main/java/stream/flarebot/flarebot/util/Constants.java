@@ -12,15 +12,15 @@ import stream.flarebot.flarebot.commands.Command;
 
 public class Constants {
 
-    public static final long OFFICIAL_GUILD = 226785954537406464L;
+    public static final long OFFICIAL_GUILD = 242671971597418498L;
     private static final String FLAREBOT_API = "https://api.flarebot.stream";
     private static final String FLAREBOT_API_DEV = "http://localhost:8880";
-    public static final String INVITE_URL = "https://discord.gg/TTAUGvZ";
+    public static final String INVITE_URL = "https://discord.gg/WAhW492";
     public static final String INVITE_MARKDOWN = "[Support Server](" + INVITE_URL + ")";
 
-    public static final long DEVELOPER_ID = 226788297156853771L;
-    public static final long ADMINS_ID = 184373823699681281L;
-    public static final long CONTRIBUTOR_ID = 272324832279003136L;
+    public static final long DEVELOPER_ID = 364016133654970368L;
+    public static final long ADMINS_ID = 242673257440870402L;
+    public static final long CONTRIBUTOR_ID = 242672917186478091L;
 
     private static final String FLARE_TEST_BOT_CHANNEL = "242297848123621376";
     public static final char COMMAND_CHAR = '_';
