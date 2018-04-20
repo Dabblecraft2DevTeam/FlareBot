@@ -39,7 +39,7 @@ This is one of the best ways to contribute to this project!
 You can find the contributing guidelines at [this link](https://github.com/Dabblecraft2DevTeam/FlareBot/blob/master/CONTRIBUTING.md).
 
 #### **Current Maintainers**
-* [keough99(@keough99|DabblecraftInc#8673)](https://github.com/Dabblecraft2DevTeam/FlareBot
+* [keough99(@keough99|DabblecraftInc#8673)](https://github.com/Dabblecraft2DevTeam/FlareBot)
 
 #### **Past Maintainers**
 
