@@ -1,7 +1,7 @@
 <h1 align="center">
     <a href="https://discord.gg/TTAUGvZ"><img src="https://cdn.discordapp.com/attachments/229704246004547585/332624402602655745/here-in-a-pip3.png" width="256px" alt="Flare"></a>
   <br>
-    FlareBot
+    FlareBot-Reloaded
   <br>
  </h1>
 <h4 align="center">Growing Discord music bot made with Java lib JDA and formerly Discord4J.</h4>
@@ -18,9 +18,13 @@
   
 -------------------
 
+##FlareBot-Reloaded
+This Poject is a continuation of the Origional FlareBot and is a public but that anyone can invite. feel free to contribute to the developement of this discord bot.
+
+
 ## Support
 
-If you need any help with the bot or you think you have found a bug please join our [official Discord server](https://discord.gg/TTAUGvZ) and report it there
+If you need any help with the bot or you think you have found a bug please join our [official Discord server](https://discord.gg/WAhW492) and report it there
 
 ## Contributing Corner
 
@@ -32,9 +36,12 @@ This is one of the best ways to contribute to this project!
 
 #### **Code**
 
-You can find the contributing guidelines at [this link](https://github.com/FlareBot/FlareBot/blob/master/CONTRIBUTING.md).
+You can find the contributing guidelines at [this link](https://github.com/Dabblecraft2DevTeam/FlareBot/blob/master/CONTRIBUTING.md).
 
 #### **Current Maintainers**
+* [keough99(@keough99|DabblecraftInc#8673)](https://github.com/Dabblecraft2DevTeam/FlareBot
+
+#### **Past Maintainers**
 
 * [Walshy(@Walshy#9060)](https://github.com/WalshyDev/FlareBot)
 * [BinaryOverload(@BinaryOverload#2382)](https://github.com/binaryoverload/FlareBot)
