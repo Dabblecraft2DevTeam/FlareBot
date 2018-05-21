@@ -22,7 +22,7 @@ public class Constants {
     public static final long ADMINS_ID = 242673257440870402L;
     public static final long CONTRIBUTOR_ID = 242672917186478091L;
 
-    private static final String FLARE_TEST_BOT_CHANNEL = "242297848123621376";
+    private static final String FLARE_TEST_BOT_CHANNEL = "448149602898673675";
     public static final char COMMAND_CHAR = '_';
     public static final String COMMAND_CHAR_STRING = String.valueOf(COMMAND_CHAR);
 
@@ -34,19 +34,19 @@ public class Constants {
     public static TextChannel getErrorLogChannel() {
         return (FlareBot.instance().isTestBot() ?
                 Getters.getChannelById(Constants.FLARE_TEST_BOT_CHANNEL) :
-                Getters.getChannelById("226786557862871040"));
+                Getters.getChannelById("448148669062053888"));
     }
 
     public static TextChannel getGuildLogChannel() {
         return (FlareBot.instance().isTestBot() ?
                 Getters.getChannelById(Constants.FLARE_TEST_BOT_CHANNEL) :
-                Getters.getChannelById("260401007685664768"));
+                Getters.getChannelById("448148782841069600"));
     }
 
     private static TextChannel getEGLogChannel() {
         return (FlareBot.instance().isTestBot() ?
                 Getters.getChannelById(Constants.FLARE_TEST_BOT_CHANNEL) :
-                Getters.getChannelById("358950369642151937"));
+                Getters.getChannelById("448148908183650305"));
     }
 
     public static void logEG(String eg, Command command, Guild guild, User user) {
@@ -61,7 +61,7 @@ public class Constants {
     public static TextChannel getImportantLogChannel() {
         return (FlareBot.instance().isTestBot() ?
                 Getters.getChannelById(Constants.FLARE_TEST_BOT_CHANNEL) :
-                Getters.getChannelById("358978253966278657"));
+                Getters.getChannelById("448149027746480128"));
     }
 
     public static String getAPI() {
