@@ -1,5 +1,5 @@
 <!--
-Issue tracker is **ONLY** used for reporting bugs. NO FEATURE REQUESTS HERE! Use [the official guild](https://discordapp.com/invite/TTAUGvZ) for feature requests and suggestions.
+Issue tracker is **ONLY** used for reporting bugs. NO FEATURE REQUESTS HERE! Use [the official guild](https://discordapp.com/invite/ERFteaZ) for feature requests and suggestions.
 -->
 
 ## Summary of the issue
