@@ -18,7 +18,7 @@
   
 -------------------
 
-##FlareBot-Reloaded
+## FlareBot-Reloaded
 This Poject is a continuation of the Origional FlareBot and is a public but that anyone can invite. feel free to contribute to the developement of this discord bot.
 
 
